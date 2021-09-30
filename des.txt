@@ -1,0 +1,11 @@
+{
+  "name": "Test",
+  "description": "This is a test!",
+  "image": "ipfs://QmWVoK9nnsw2gyrcKjjWN8Q1JFjNtYAJAyRsnqA5kMAB4f",
+  "attributes": [
+    {
+      "trait_type": "BORED", 
+      "value": "100%"
+    }
+  ]
+}
